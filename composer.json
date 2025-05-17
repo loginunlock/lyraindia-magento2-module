@@ -1,7 +1,6 @@
 {
     "name": "lyra/lyraindia-magento2-module",
     "description": "LyraIndia Magento2 Module using \\Magento\\Payment\\Model\\Method\\AbstractMethod",
-    "version": "1.0.0",
     "type": "magento2-module",
     "license": [
         "MIT"
