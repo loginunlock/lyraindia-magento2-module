@@ -1,13 +1,13 @@
 {
     "name": "lyra/lyraindia-magento2-module",
-    "description": "LyraIndia Magento2 Module using \\Magento\\Payment\\Model\\Method\\AbstractMethod",
+    "description": "LyraIndia Magento2 Module",
     "type": "magento2-module",
     "license": [
         "MIT"
     ],
     "authors": [
         {
-            "email": "hncvj@engineer.com",
+            "email": "vinayjain@parmartech,com",
             "name": "Vinay Jain"
         }
     ],
