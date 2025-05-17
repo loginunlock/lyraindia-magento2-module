@@ -13,7 +13,7 @@ LyraIndia payment gateway for Magento 2
 * Enter following command to install module:
 
 ```bash
-composer require lyraindia/lyraindia-magento2-module
+composer require lyraindia/magento2
 ```
 
 * Wait while dependencies are updated.
@@ -28,12 +28,12 @@ php bin/magento setup:di:compile
 
 * Enable and configure `LyraIndia` in *Magento Admin* under `Stores/Configuration/Payment` Methods
 
-[ico-version]: https://img.shields.io/packagist/v/lyraindia/lyraindia-magento2-module.svg?style=flat-square
+[ico-version]: https://img.shields.io/packagist/v/lyraindia/magento2.svg?style=flat-square
 [ico-license]: https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square
-[ico-downloads]: https://img.shields.io/packagist/dt/lyraindia/lyraindia-magento2-module.svg?style=flat-square
+[ico-downloads]: https://img.shields.io/packagist/dt/lyraindia/magento2.svg?style=flat-square
 
-[link-packagist]: https://packagist.org/packages/lyraindia/lyraindia-magento2-module
-[link-downloads]: https://packagist.org/packages/lyraindia/lyraindia-magento2-module
+[link-packagist]: https://packagist.org/packages/lyraindia/magento2
+[link-downloads]: https://packagist.org/packages/lyraindia/magento2
 
 
 ## Documentation
